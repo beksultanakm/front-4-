@@ -1,6 +1,7 @@
 # Assignment 4. Forms and Validation
 
-Student: <Beksultan Akmakhan>, Group: <SE - 2530>
+Akmakhan Beksultan
+SE-2530
 
 ## Description
 Web Technologies Frontend, Assignment 4. HTML forms, HTML5 validation and Bootstrap 5.3 form components.
